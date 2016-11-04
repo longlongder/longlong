@@ -1,0 +1,6 @@
+{
+  "name": "Longlong",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<head>\r\n<title>蔡显威个人主页</title>\r\n</head>\r\n<div style=\"margin:auto;font-style:italic;background:url(img/11.jpg);border:2px solid black;border-radius:20px;padding:10px;\" height=\"900px\">\r\n<body style=\"font-size:28px;font-family:微软雅黑;font-weight:900\">\r\n<embed src=\"img/123.mp3\" autostart=\"true\" hidden=\"true\" loop=\"true\">\r\n<h1 style=\"text-align:center;background:url(img/16.jpg);font-size:60px;border:2px solid #000fff;border-radius:100px;\">个人简介</h1>\r\n<img src=\"img/01.png\"style=\"float:right\"width=\"250px\"height=\"340px\">\r\n<p style=\"text-indent:2em;\">\r\n大家好！</p>\r\n<p style=\"text-indent:2em\">我叫蔡显威，我来自盘锦兴隆台，我是辽河石油职业技术学院的一名大专生。我喜欢听音乐，唱歌和打电脑游戏。 </p>\r\n<p style=\"text-indent:2em\"> 初次来到一个对自己来说有点陌生的城市和校园，我想大家的感受是一样的，对新环境的不适和陌生感也肯定都是会有的，我真心的希望与每一个人做好朋友，共同度过这个适应阶段，共携手度过这美好的四个月时光！</p>\r\n<p style=\"text-indent:2em\">谢谢大家!</p>\r\n<a href=\"http://www.baidu.com\"style=\"color:red\">进入我的个人主页--</a>\r\n</div>\r\n<script>\r\nalert(\"欢迎来到我的个人主页\");\r\n</script>\r\n<hr>\r\n</body>\r\n</html>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
